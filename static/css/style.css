@@ -1,0 +1,36 @@
+/* Font of body for paragraph text */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #386FA4;
+    font-size: 16px;
+}
+
+/* Style for level 2 headers */
+h2 {
+    color: #133C55;
+    font-family: Georgia, serif;
+}
+
+/* Style for tables */
+table, th, td {
+    border-style: solid;
+    border-color: #133C55;
+}
+
+/* Style for extra intro paragraph */
+p#intro-extra {
+    font-weight: bold;
+    color: #133C55;
+}
+
+/* Highlight style */
+.highlight {
+    color: #59A5D8;
+    font-style: italic;
+}
+
+/* Sizing of the logo */
+img.logo {
+    width: 267px;
+    height: 72px;
+}
